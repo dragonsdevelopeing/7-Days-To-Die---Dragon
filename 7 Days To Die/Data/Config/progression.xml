@@ -670,8 +670,8 @@
 			<multiply skill_level="70,100" value="1.23,1.28" />
 		</effect>
 		<recipe name="woodenBow" unlock_level="1"/>
+		<recipe name="crossbow" unlock_level="10"/>
 		<recipe name="ironBow" unlock_level="20"/>
-		<recipe name="crossbow" unlock_level="30"/>
 		<recipe name="ironCrossbow" unlock_level="40"/>
 		<recipe name="crossbowRepeater" unlock_level="50"/>
 	</action_skill>
@@ -690,6 +690,7 @@
 			<multiply skill_level="90,100" value="0.29,0.25"/>
 		</effect>
 		<recipe name="arrow" unlock_level="1"/>
+		<recipe name="crossbowBolts" unlock_level="1"/>
 		<recipe name="ironArrow" unlock_level="20"/>
 		<recipe name="ironCrossbowBolt" unlock_level="20"/>
 		<recipe name="steelArrow" unlock_level="30"/>
