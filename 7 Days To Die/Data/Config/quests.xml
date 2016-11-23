@@ -1260,32 +1260,32 @@ repeatable="true" category_key="challenge" difficulty="easy">
 repeatable="false" category_key="challenge" offer="Hunter's are trained in tracking down animals." difficulty="easy">
 	<reward type="Skill" id="Leatherworking" value="10" />
 	<reward type="Skill" id="Blade Weapons" value="5" />
-	<reward type="Skill" id="Rifles" value="15" />
+	<reward type="Skill" id="Rifles" value="10" />
 	<reward type="Skill" id="Traps" value="5" />
 	<reward type="Skill" id="762mm Round Crafting" value="1" />
 </quest>
 <quest id="perkRifleman" name="Rifleman Skills" subtitle="Rifleman Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="Rifleman's are trained in using rifles." difficulty="easy">
 	<reward type="Skill" id="762mm Round Crafting" value="1" />
-	<reward type="Skill" id="Rifles" value="15" />
+	<reward type="Skill" id="Rifles" value="10" />
 	<reward type="Skill" id="Better Lead Than Dead" value="1" />
 </quest>
 <quest id="perkVeteran" name="Veteran Skills" subtitle="Veteran Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="Veterans have past military experience." difficulty="easy">
-	<reward type="Skill" id="Assault Rifles" value="30" />
+	<reward type="Skill" id="Assault Rifles" value="15" />
 	<reward type="Skill" id="GI Joe" value="1" />
 	<reward type="Skill" id="10mm Round Crafting" value="1" />
 </quest>
 <quest id="perkSurvivor" name="Survivor Skills" subtitle="Survivor Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="Survivor's specialize in surviving off the land." difficulty="easy">
 	<reward type="Skill" id="Scavenging" value="15" />
-	<reward type="Skill" id="Archery" value="15" />
+	<reward type="Skill" id="Archery" value="10" />
 	<reward type="Skill" id="Tool Smithing" value="5" />
 </quest>
 <quest id="perkGunman" name="Gunman Skills" subtitle="Gunman Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="Gunman have experience with handguns." difficulty="easy">
 	<reward type="Skill" id="9mm Round Crafting" value="1" />
-	<reward type="Skill" id="Pistols" value="15" />
+	<reward type="Skill" id="Pistols" value="10" />
 	<reward type="Skill" id="The Gunman" value="1" />
 </quest>
 <quest id="perkMedic" name="Medic Skills" subtitle="Medic Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
@@ -1298,7 +1298,7 @@ repeatable="false" category_key="challenge" offer="The field medic has previous 
 repeatable="false" category_key="challenge" offer="The Bruiser has experience in getting rough and prefers to get up close and personal in combat." difficulty="easy">
 	<reward type="Skill" id="Blunt Weapons" value="10" />
 	<reward type="Skill" id="Blade Weapons" value="10" />
-	<reward type="Skill" id="Shotguns" value="10" />
+	<reward type="Skill" id="Pistols" value="10" />
 	<reward type="Skill" id="Armor Smithing" value="10" />
 </quest>
 <quest id="perkBuilder" name="Builder Skills" subtitle="Builder Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
