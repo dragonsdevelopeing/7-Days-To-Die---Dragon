@@ -3015,7 +3015,7 @@
 	    <item group="SurvivalGear"/>
         <item name="gunBoltRifle" count="1" quality="170,170"/>
         <item name="762mmBullet" count="120"/>
-        <item name="huntingKnife" count="1" quality="200,200"/>
+        <item name="skinningKnife" count="1" quality="200,200"/>
         <item name="animalHideHood" count="1" quality="170,170"/>
         <item name="repairKit" count="4"/>
 		<item name="challengeClassHunter" count="1"/>
@@ -3100,12 +3100,13 @@
 		<item name="flashlight02" count="1"/>
         <item name="machete" count="1" quality="170,170"/>
         <item name="crossbow" count="1" quality="170,170"/>
-        <item name="ironCrossbowBolt" count="70"/>
+        <item name="crossbowBolt" count="90"/>
 		<item name="cookingPot" count="1"/>
         <item name="firstAidKit" count="1"/>
         <item name="clothHat" count="1" quality="170,170"/>
-        <item name="huntingKnife" count="1" quality="170,170"/>
+        <item name="skinningKnife" count="1" quality="170,170"/>
 		<item name="challengeClassSurvivor" count="1"/>
+		<item name="firstAidKit" count="1"/>
 		<item name="perkSurvivor" count="1"/>
 	</lootgroup>
 	<lootgroup name="BruiserClass" count="all">
